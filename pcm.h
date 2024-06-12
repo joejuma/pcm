@@ -10,12 +10,6 @@
 	
 	## Usage
 	See the `pcm::PointCloudMap` structure for the best usage notes.
-	
-	## Confidentiality Notice
-	This library, including but not limited to its source code and binary forms, 
-	are proprietary and confidential information of Joseph Juma. For the purposes
-	of any confidentiality agreement, this notice constitutes written statement
-	of confidentiality.
 
 	## Copyright
 	Copyright Joseph M. Juma, 2024. All rights reserved.
